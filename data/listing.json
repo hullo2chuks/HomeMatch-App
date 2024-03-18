@@ -1,0 +1,461 @@
+[
+  {
+    "Neighborhood": "Greenwood Estates",
+    "Price": "$550,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 2500,
+    "Description": "Charming 4-bedroom, 3-bathroom home in the heart of Greenwood Estates. Spacious layout, perfect for families. Modern kitchen, cozy living room, and a beautiful backyard for entertaining.",
+    "NeighborhoodDescription": "Greenwood Estates is a family-friendly neighborhood with parks, schools, and easy access to shopping centers. Enjoy a quiet and safe community atmosphere."
+  },
+  {
+    "Neighborhood": "Lakeview Heights",
+    "Price": "$720,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3500,
+    "Description": "Elegant 5-bedroom, 4-bathroom home with stunning lake views in Lakeview Heights. This spacious residence features a gourmet kitchen, luxurious master suite, and a large backyard oasis.",
+    "NeighborhoodDescription": "Lakeview Heights offers a serene environment with picturesque lake views. Close to recreational areas and high-rated schools, making it an ideal location for families and nature enthusiasts."
+  },
+  {
+    "Neighborhood": "Downtown Lofts",
+    "Price": "$650,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "HouseSize": 1800,
+    "Description": "Modern 2-bedroom, 2-bathroom loft-style living in the heart of Downtown. Open concept design, high ceilings, and city views. Perfect for those seeking an urban lifestyle.",
+    "NeighborhoodDescription": "Downtown Lofts is the pulse of the city, surrounded by trendy cafes, restaurants, and cultural attractions. Live in the midst of urban excitement with convenient access to public transportation."
+  },
+  {
+    "Neighborhood": "Hillside Retreat",
+    "Price": "$680,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 2800,
+    "Description": "Tranquil 3-bedroom, 2.5-bathroom hillside retreat with panoramic mountain views. This architecturally stunning home features a spacious deck, a cozy fireplace, and a private garden oasis.",
+    "NeighborhoodDescription": "Hillside Retreat offers a peaceful escape from the hustle and bustle. Surrounded by nature trails and parks, it's an ideal spot for those who appreciate serenity and outdoor activities."
+  },
+  {
+    "Neighborhood": "Harborfront Haven",
+    "Price": "$900,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3200,
+    "Description": "Luxurious 4-bedroom, 3.5-bathroom harborfront home with breathtaking ocean views. This elegant residence boasts a gourmet kitchen, a spa-like master suite, and a private dock for your boat.",
+    "NeighborhoodDescription": "Harborfront Haven offers an exclusive waterfront living experience. Enjoy the maritime atmosphere, upscale dining, and the convenience of having your boat right outside your door."
+  },
+  {
+    "Neighborhood": "Historic District Charm",
+    "Price": "$500,000",
+    "Bedrooms": 2,
+    "Bathrooms": 1.5,
+    "HouseSize": 1600,
+    "Description": "Quaint 2-bedroom, 1.5-bathroom historic home in the charming district. Original hardwood floors, antique fixtures, and a beautifully landscaped backyard create a unique and cozy living space.",
+    "NeighborhoodDescription": "Historic District Charm is known for its cobblestone streets, historic architecture, and vibrant cultural scene. Immerse yourself in the rich history and enjoy a sense of community in this picturesque neighborhood."
+  },
+  {
+    "Neighborhood": "Mountain Vista Estates",
+    "Price": "$750,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3000,
+    "Description": "Spectacular 4-bedroom, 3-bathroom home nestled in Mountain Vista Estates. Enjoy stunning mountain views from the spacious deck. Interior highlights include a gourmet kitchen and a cozy fireplace.",
+    "NeighborhoodDescription": "Mountain Vista Estates offers a serene mountain living experience. With hiking trails and outdoor activities nearby, it's perfect for nature enthusiasts seeking a peaceful retreat."
+  },
+  {
+    "Neighborhood": "Riverside Haven",
+    "Price": "$820,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4.5,
+    "HouseSize": 3800,
+    "Description": "Elegant 5-bedroom, 4.5-bathroom riverside haven with private river access. This sophisticated home features a grand foyer, a media room, and a spacious backyard for entertaining.",
+    "NeighborhoodDescription": "Riverside Haven is a waterfront community, offering a tranquil lifestyle with river views and water activities. Enjoy the peaceful ambiance and proximity to local amenities."
+  },
+  {
+    "Neighborhood": "Artisan Loft District",
+    "Price": "$600,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "HouseSize": 2000,
+    "Description": "Unique 2-bedroom, 2-bathroom loft in the vibrant Artisan Loft District. Industrial-chic design, exposed brick walls, and large windows create an inspiring living space for creative individuals.",
+    "NeighborhoodDescription": "Artisan Loft District is a hub for creativity and culture. Live amidst art galleries, studios, and trendy cafes. Experience the dynamic atmosphere of this artistic and eclectic neighborhood."
+  },
+  {
+    "Neighborhood": "Sunset Bluffs",
+    "Price": "$890,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3400,
+    "Description": "Modern 4-bedroom, 3.5-bathroom masterpiece in Sunset Bluffs. Expansive windows provide breathtaking sunset views. High-end finishes, a home theater, and a landscaped garden create a luxurious living space.",
+    "NeighborhoodDescription": "Sunset Bluffs is known for its elevated vantage points and stunning sunsets. Enjoy a blend of luxury and natural beauty, with easy access to upscale dining and entertainment."
+  },
+  {
+    "Neighborhood": "Garden Grove Retreat",
+    "Price": "$580,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 2200,
+    "Description": "Inviting 3-bedroom, 2-bathroom home in Garden Grove Retreat. Lush gardens surround this charming property, offering a peaceful escape. The interior features a gourmet kitchen and a cozy sunroom.",
+    "NeighborhoodDescription": "Garden Grove Retreat is a haven for gardening enthusiasts, featuring community green spaces and botanical gardens. Experience the tranquility of nature in this idyllic neighborhood."
+  },
+  {
+    "Neighborhood": "Uptown Penthouse",
+    "Price": "$1,200,000",
+    "Bedrooms": 3,
+    "Bathrooms": 3.5,
+    "HouseSize": 2800,
+    "Description": "Luxurious 3-bedroom, 3.5-bathroom penthouse in the heart of Uptown. Floor-to-ceiling windows offer panoramic city views. High-end amenities, a private terrace, and sleek design define this upscale residence.",
+    "NeighborhoodDescription": "Uptown is a bustling urban center with upscale shopping, fine dining, and cultural attractions. Live in style with convenient access to the city's vibrant energy and entertainment options."
+  },
+  {
+    "Neighborhood": "Seaside Retreat",
+    "Price": "$950,000",
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "HouseSize": 3600,
+    "Description": "Elegant 4-bedroom, 4-bathroom seaside retreat with panoramic ocean views. This coastal masterpiece features a gourmet kitchen, a private beachfront deck, and a luxurious spa-inspired master suite.",
+    "NeighborhoodDescription": "Seaside Retreat offers the epitome of coastal living. Enjoy the soothing sound of waves, stunning sunrises, and easy access to water activities. A coastal paradise for those seeking serenity."
+  },
+  {
+    "Neighborhood": "Maple Grove Estates",
+    "Price": "$680,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 2500,
+    "Description": "Classic 3-bedroom, 2.5-bathroom home in the scenic Maple Grove Estates. Graced with mature trees, this property features a cozy fireplace, a sunlit breakfast nook, and a landscaped backyard.",
+    "NeighborhoodDescription": "Maple Grove Estates is a charming, tree-lined community, providing a peaceful suburban lifestyle. Enjoy local parks, excellent schools, and the beauty of changing seasons."
+  },
+  {
+    "Neighborhood": "Skyline Penthouse",
+    "Price": "$1,500,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2.5,
+    "HouseSize": 2000,
+    "Description": "Exclusive 2-bedroom, 2.5-bathroom penthouse with breathtaking skyline views. This modern residence boasts floor-to-ceiling windows, a private rooftop terrace, and state-of-the-art smart home features.",
+    "NeighborhoodDescription": "Skyline Penthouse is situated in the heart of the city's vibrant urban landscape. Indulge in luxury living with convenient access to upscale dining, entertainment, and cultural attractions."
+  },
+  {
+    "Neighborhood": "Tranquil Meadows",
+    "Price": "$720,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3100,
+    "Description": "Serene 4-bedroom, 3.5-bathroom residence in Tranquil Meadows. Nestled amidst lush greenery, this home features a sunroom, a private pond, and a custom-built library for the avid reader.",
+    "NeighborhoodDescription": "Tranquil Meadows offers a peaceful escape with its expansive green spaces and nature trails. Ideal for those seeking a balance between modern living and natural tranquility."
+  },
+  {
+    "Neighborhood": "Historic Waterfront District",
+    "Price": "$850,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3800,
+    "Description": "Historic 5-bedroom, 4-bathroom home in the Waterfront District. Preserving its historic charm, this residence boasts original architectural details, a riverfront patio, and a private boat dock.",
+    "NeighborhoodDescription": "The Historic Waterfront District is a living museum, offering a glimpse into the past with cobblestone streets and well-preserved architecture. Enjoy waterfront living with a touch of history."
+  },
+  {
+    "Neighborhood": "Eco-Friendly Haven",
+    "Price": "$600,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "HouseSize": 1800,
+    "Description": "Chic 3-bedroom, 2-bathroom eco-friendly haven. This energy-efficient home features solar panels, a rainwater harvesting system, and a beautifully landscaped sustainable garden.",
+    "NeighborhoodDescription": "Eco-Friendly Haven is a community committed to sustainable living. Embrace an eco-conscious lifestyle with green spaces, community gardens, and like-minded neighbors."
+  },
+  {
+    "Neighborhood": "Meadowside Manor",
+    "Price": "$780,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3200,
+    "Description": "Elegant 4-bedroom, 3.5-bathroom residence in Meadowside Manor. A blend of classic and modern, featuring a grand staircase, a home theater, and a spacious backyard with a pergola.",
+    "NeighborhoodDescription": "Meadowside Manor is an upscale neighborhood known for its luxurious estates and well-manicured lawns. Experience a refined lifestyle with easy access to high-end shopping and dining."
+  },
+  {
+    "Neighborhood": "Zen Garden Oasis",
+    "Price": "$950,000",
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "HouseSize": 2800,
+    "Description": "Tranquil 3-bedroom, 3-bathroom oasis with a Zen garden. This contemporary retreat boasts a meditation room, a Japanese-inspired landscape, and a wellness center with a sauna.",
+    "NeighborhoodDescription": "Zen Garden Oasis provides a sanctuary for those seeking balance and serenity. Embrace a lifestyle focused on well-being, surrounded by calming greenery and peaceful surroundings."
+  },
+  {
+    "Neighborhood": "Aviator's Paradise",
+    "Price": "$1,200,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 4000,
+    "Description": "Custom-built 5-bedroom, 4-bathroom home in Aviator's Paradise with a private hangar. Ideal for aviation enthusiasts, this residence features a runway view, a pilot's lounge, and a workshop.",
+    "NeighborhoodDescription": "Aviator's Paradise is a unique community catering to aviation enthusiasts. Enjoy the thrill of living alongside a private airstrip with convenient access to your own hangar."
+  },
+  {
+    "Neighborhood": "Mountain Retreat",
+    "Price": "$850,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 3000,
+    "Description": "Rustic 3-bedroom, 2.5-bathroom mountain retreat surrounded by tall pines. Featuring a stone fireplace, a wraparound deck with mountain views, and a charming loft for additional space.",
+    "NeighborhoodDescription": "Mountain Retreat offers a serene escape into nature. Embrace the tranquility of mountain living, with hiking trails, wildlife, and a close-knit community of nature enthusiasts."
+  },
+  {
+    "Neighborhood": "Gourmet Haven",
+    "Price": "$720,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 2800,
+    "Description": "Gourmet 4-bedroom, 3-bathroom haven with a chef's kitchen and a wine cellar. This culinary-inspired home also features a spacious dining area, a private patio, and a home garden.",
+    "NeighborhoodDescription": "Gourmet Haven is a food lover's paradise, with access to artisanal markets, fine dining, and culinary events. Immerse yourself in a community passionate about gastronomy and epicurean delights."
+  },
+  {
+    "Neighborhood": "Lakefront Lodge",
+    "Price": "$1,100,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4.5,
+    "HouseSize": 3500,
+    "Description": "Picturesque 5-bedroom, 4.5-bathroom lakefront lodge with a private dock. Enjoy boating, fishing, and lakeside living. The lodge features a stone fireplace, a sauna, and a game room.",
+    "NeighborhoodDescription": "Lakefront Lodge offers a resort-like lifestyle with direct access to the lake. Experience the beauty of waterfront living, surrounded by nature and a community of water enthusiasts."
+  },
+  {
+    "Neighborhood": "Skyline Retreat",
+    "Price": "$980,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3200,
+    "Description": "Modern 4-bedroom, 3.5-bathroom retreat with panoramic skyline views. This contemporary masterpiece features a rooftop garden, a home gym, and smart home technology throughout.",
+    "NeighborhoodDescription": "Skyline Retreat offers a high-altitude living experience with breathtaking views of the cityscape. Enjoy the convenience of urban living while indulging in the serenity of your private sanctuary."
+  },
+  {
+    "Neighborhood": "Vineyard Haven",
+    "Price": "$750,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 2400,
+    "Description": "Charming 3-bedroom, 2.5-bathroom home surrounded by vineyards. This wine country escape features a wine cellar, a covered patio for wine tastings, and a picturesque vineyard view.",
+    "NeighborhoodDescription": "Vineyard Haven is nestled in the heart of wine country, offering a serene and picturesque setting. Enjoy the charm of vineyards, local wineries, and a close-knit community."
+  },
+  {
+    "Neighborhood": "Tech Oasis",
+    "Price": "$1,300,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3800,
+    "Description": "Futuristic 5-bedroom, 4-bathroom oasis for tech enthusiasts. Smart home features, a private tech lab, and a virtual reality entertainment area make this home a haven for innovation.",
+    "NeighborhoodDescription": "Tech Oasis is a community at the forefront of technology. Surround yourself with like-minded individuals, cutting-edge innovations, and a dynamic atmosphere perfect for tech professionals."
+  },
+  {
+    "Neighborhood": "Rustic Ranch Retreat",
+    "Price": "$890,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3400,
+    "Description": "Captivating 4-bedroom, 3-bathroom ranch retreat with a rustic charm. Situated on expansive land, features include a horse stable, a pond, and a spacious barn converted into a cozy entertainment space.",
+    "NeighborhoodDescription": "Rustic Ranch Retreat offers a countryside escape with a touch of luxury. Ideal for those seeking a peaceful retreat with the charm of rural living and modern amenities."
+  },
+  {
+    "Neighborhood": "Urban Industrial Loft",
+    "Price": "$720,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2.5,
+    "HouseSize": 2000,
+    "Description": "Sleek 2-bedroom, 2.5-bathroom industrial loft in the heart of the urban landscape. Exposed brick, high ceilings, and large windows create a modern and stylish living space with an artistic edge.",
+    "NeighborhoodDescription": "Urban Industrial Loft is surrounded by the vibrancy of city life. Enjoy easy access to trendy galleries, eclectic cafes, and a dynamic community of artists and urban enthusiasts."
+  },
+  {
+    "Neighborhood": "Forest Haven",
+    "Price": "$1,100,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4.5,
+    "HouseSize": 3800,
+    "Description": "Enchanting 5-bedroom, 4.5-bathroom home in the heart of Forest Haven. Surrounded by towering trees, this residence features a nature-inspired design, a home theater, and a treehouse retreat for kids.",
+    "NeighborhoodDescription": "Forest Haven is a tranquil escape into nature within the city. Enjoy the beauty of wooded surroundings, walking trails, and a close-knit community passionate about preserving the environment."
+  },
+  {
+    "Neighborhood": "Desert Oasis",
+    "Price": "$780,000",
+    "Bedrooms": 3,
+    "Bathrooms": 3.5,
+    "HouseSize": 2800,
+    "Description": "Stunning 3-bedroom, 3.5-bathroom oasis in the heart of the desert. Features include a private courtyard, a refreshing pool, and a rooftop stargazing deck for enjoying the breathtaking night sky.",
+    "NeighborhoodDescription": "Desert Oasis offers a tranquil escape surrounded by the beauty of the arid landscape. Embrace the peaceful solitude, unique flora, and the magic of desert living."
+  },
+  {
+    "Neighborhood": "Historic Brownstone",
+    "Price": "$950,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3200,
+    "Description": "Timeless 4-bedroom, 3-bathroom historic brownstone with classic charm. Original details, a private garden, and a rooftop terrace make this residence a piece of living history.",
+    "NeighborhoodDescription": "Historic Brownstone is nestled in a neighborhood rich with architectural heritage. Experience the allure of cobblestone streets, historic landmarks, and a sense of community rooted in the past."
+  },
+  {
+    "Neighborhood": "Treetop Sanctuary",
+    "Price": "$1,150,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 3000,
+    "Description": "Architectural marvel - 3-bedroom, 2.5-bathroom treetop sanctuary. Suspended in the canopy, this home features floor-to-ceiling windows, a suspended bridge walkway, and a meditation loft.",
+    "NeighborhoodDescription": "Treetop Sanctuary offers a unique perspective on modern living. Live amongst the treetops, surrounded by nature and tranquility, creating a harmonious blend of architectural innovation and natural beauty."
+  },
+  {
+    "Neighborhood": "Oceanfront Escape",
+    "Price": "$1,200,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 4000,
+    "Description": "Luxurious 5-bedroom, 4-bathroom oceanfront estate. Enjoy direct access to a private beach, a heated infinity pool, and a rooftop terrace with panoramic ocean views.",
+    "NeighborhoodDescription": "Oceanfront Escape offers an unparalleled coastal lifestyle. Immerse yourself in the soothing sounds of the waves and the breathtaking beauty of the ocean, creating a serene and exclusive retreat."
+  },
+  {
+    "Neighborhood": "Historic Arts District Loft",
+    "Price": "$850,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 2200,
+    "Description": "Unique 3-bedroom, 2.5-bathroom loft in the heart of the Historic Arts District. This industrial-chic space features exposed brick, skylights, and an art studio for creative endeavors.",
+    "NeighborhoodDescription": "Historic Arts District Loft is a haven for artistic souls. Live amidst galleries, theaters, and a vibrant arts scene. Experience the creative energy of the neighborhood right at your doorstep."
+  },
+  {
+    "Neighborhood": "Mountain Cabin Retreat",
+    "Price": "$650,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "HouseSize": 1800,
+    "Description": "Cozy 2-bedroom, 2-bathroom mountain cabin retreat. Nestled in the woods, this cabin features a stone fireplace, a hot tub on the deck, and hiking trails right outside your door.",
+    "NeighborhoodDescription": "Mountain Cabin Retreat offers a secluded escape into nature. Enjoy the serenity of the mountains, crisp fresh air, and the charm of a cozy cabin in the woods."
+  },
+  {
+    "Neighborhood": "Equestrian Estate",
+    "Price": "$1,500,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 4500,
+    "Description": "Sprawling 4-bedroom, 3.5-bathroom equestrian estate with a horse barn and riding trails. This property features a pond, a heated outdoor riding arena, and a luxurious home with a rustic touch.",
+    "NeighborhoodDescription": "Equestrian Estate offers a haven for horse lovers. Enjoy the beauty of rolling pastures, equestrian events, and a close-knit community passionate about horses and country living."
+  },
+  {
+    "Neighborhood": "Modern Lakeside Villa",
+    "Price": "$1,250,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 3800,
+    "Description": "Contemporary 5-bedroom, 4-bathroom lakeside villa with sleek design. Floor-to-ceiling windows provide stunning water views, while the outdoor terrace and private dock offer lakeside living at its finest.",
+    "NeighborhoodDescription": "Modern Lakeside Villa is a blend of luxury and nature. Experience the tranquility of lakeside living, with opportunities for boating, fishing, and enjoying scenic sunsets over the water."
+  },
+  {
+    "Neighborhood": "Historic Garden District Mansion",
+    "Price": "$2,000,000",
+    "Bedrooms": 6,
+    "Bathrooms": 5,
+    "HouseSize": 6000,
+    "Description": "Stately 6-bedroom, 5-bathroom mansion in the Historic Garden District. This architectural gem features meticulously maintained gardens, a grand ballroom, and a charming carriage house.",
+    "NeighborhoodDescription": "Historic Garden District Mansion is a testament to the grandeur of a bygone era. Live amidst the elegance of historic architecture, lush gardens, and a neighborhood steeped in cultural heritage."
+  },
+  {
+    "Neighborhood": "Ski Chalet Retreat",
+    "Price": "$1,100,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3200,
+    "Description": "Inviting 4-bedroom, 3-bathroom ski chalet retreat. Nestled in the mountains, this home features a stone fireplace, a hot tub with mountain views, and direct access to ski-in/ski-out trails.",
+    "NeighborhoodDescription": "Ski Chalet Retreat offers a winter wonderland for skiing enthusiasts. Enjoy the thrill of the slopes right outside your door, surrounded by the beauty of snow-covered mountains."
+  },
+  {
+    "Neighborhood": "Mansion on the Cliff",
+    "Price": "$2,500,000",
+    "Bedrooms": 7,
+    "Bathrooms": 6,
+    "HouseSize": 8000,
+    "Description": "Breathtaking 7-bedroom, 6-bathroom mansion perched on a cliff. Panoramic views of the ocean, a private infinity pool, and a cliffside terrace create an unparalleled living experience.",
+    "NeighborhoodDescription": "Mansion on the Cliff offers a residence of opulence and awe. Live in luxury overlooking the ocean, with a sense of exclusivity and serenity that comes with cliffside living."
+  },
+  {
+    "Neighborhood": "Historic Artisan Village",
+    "Price": "$1,350,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "HouseSize": 4000,
+    "Description": "Artistically restored 5-bedroom, 4-bathroom home in the heart of a historic artisan village. Original craftsmanship, art studios, and a communal courtyard define this unique living space.",
+    "NeighborhoodDescription": "Historic Artisan Village is a haven for creatives. Immerse yourself in a neighborhood filled with art studios, galleries, and a vibrant artistic community that celebrates creativity and collaboration."
+  },
+  {
+    "Neighborhood": "Clifftop Sanctuary",
+    "Price": "$1,800,000",
+    "Bedrooms": 6,
+    "Bathrooms": 5,
+    "HouseSize": 5500,
+    "Description": "Majestic 6-bedroom, 5-bathroom clifftop sanctuary with breathtaking ocean views. This architectural marvel features a glass-floored observation deck, a private theater, and an infinity pool.",
+    "NeighborhoodDescription": "Clifftop Sanctuary offers unparalleled views and a sense of tranquility high above the ocean. Live in harmony with nature, surrounded by panoramic vistas and the soothing sound of the waves."
+  },
+  {
+    "Neighborhood": "Urban Treehouse",
+    "Price": "$900,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 2300,
+    "Description": "Unique 3-bedroom, 2.5-bathroom urban treehouse. Nestled among towering trees, this eco-friendly home features sustainable materials, a rooftop garden, and a cozy tree-shaded patio.",
+    "NeighborhoodDescription": "Urban Treehouse is an oasis in the heart of the city. Live in harmony with nature while enjoying the convenience of urban living, surrounded by lush greenery and a peaceful atmosphere."
+  },
+  {
+    "Neighborhood": "Modern Desert Dwelling",
+    "Price": "$1,250,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3400,
+    "Description": "Architectural gem - 4-bedroom, 3.5-bathroom modern desert dwelling. Clean lines, large windows, and a minimalist design create a sleek and comfortable living space in the heart of the desert.",
+    "NeighborhoodDescription": "Modern Desert Dwelling offers a sophisticated oasis in the arid landscape. Experience the beauty of the desert with contemporary living, providing a unique and tranquil desert lifestyle."
+  },
+  {
+    "Neighborhood": "Historic Lighthouse Haven",
+    "Price": "$1,350,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "HouseSize": 3800,
+    "Description": "Iconic 4-bedroom, 3.5-bathroom residence adjacent to a historic lighthouse. Enjoy panoramic coastal views, a private beachfront, and a nautical-themed interior with timeless charm.",
+    "NeighborhoodDescription": "Historic Lighthouse Haven offers a coastal lifestyle steeped in maritime history. Live in a neighborhood with a strong sense of tradition, surrounded by the beauty of the sea."
+  },
+  {
+    "Neighborhood": "Mountain Top Chalet",
+    "Price": "$1,100,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "HouseSize": 3000,
+    "Description": "Charming 3-bedroom, 2.5-bathroom chalet perched on a mountain top. This cozy retreat features a stone fireplace, a hot tub with mountain views, and direct access to hiking trails.",
+    "NeighborhoodDescription": "Mountain Top Chalet offers a secluded mountain living experience. Embrace the crisp mountain air, stunning views, and a sense of serenity that comes with living above the clouds."
+  },
+  {
+    "Neighborhood": "Sustainable Urban Loft",
+    "Price": "$950,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "HouseSize": 1800,
+    "Description": "Eco-conscious 2-bedroom, 2-bathroom urban loft with sustainable features. Solar panels, a rainwater harvesting system, and a community garden make this loft a green oasis in the city.",
+    "NeighborhoodDescription": "Sustainable Urban Loft is a community committed to eco-friendly living. Experience a sustainable urban lifestyle with like-minded neighbors, green spaces, and innovative eco-friendly design."
+  },
+  {
+    "Neighborhood": "Luxury Vineyard Estate",
+    "Price": "$2,200,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4.5,
+    "HouseSize": 5000,
+    "Description": "Exquisite 5-bedroom, 4.5-bathroom estate surrounded by lush vineyards. This luxury property features a private wine cellar, a gourmet kitchen, and a sprawling terrace overlooking the vines.",
+    "NeighborhoodDescription": "Luxury Vineyard Estate is a haven for wine enthusiasts. Live amidst the beauty of rolling vineyards, enjoying the sophistication and elegance that comes with a luxury wine country lifestyle."
+  },
+  {
+    "Neighborhood": "Mid-Century Modern Oasis",
+    "Price": "$1,150,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "HouseSize": 3200,
+    "Description": "Stylish 4-bedroom, 3-bathroom mid-century modern oasis. Featuring iconic design elements, a retro-themed entertainment room, and a private courtyard with a sleek pool.",
+    "NeighborhoodDescription": "Mid-Century Modern Oasis is a tribute to classic design. Live in a neighborhood where mid-century modern architecture takes center stage, providing a blend of style and contemporary living."
+  },
+  {
+    "Neighborhood": "Tropical Paradise Retreat",
+    "Price": "$1,500,000",
+    "Bedrooms": 6,
+    "Bathrooms": 5,
+    "HouseSize": 4500,
+    "Description": "Enchanting 6-bedroom, 5-bathroom tropical paradise retreat. Surrounded by lush gardens, a waterfall pool, and a private cabana, this residence offers a luxurious escape in a tropical setting.",
+    "NeighborhoodDescription": "Tropical Paradise Retreat brings the allure of the tropics to your doorstep. Live in a neighborhood where palm trees sway, exotic flowers bloom, and the ambiance is always set to vacation mode."
+  }
+]
